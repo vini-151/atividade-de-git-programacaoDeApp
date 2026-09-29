@@ -10,6 +10,6 @@ import Foundations
 
 struct ViewMaisLegalAinda: View {
     var body: some View {
-        Text("Lopes, por gentileza, pare de passar dever de casa!")
+        Text("Lopes, por gentileza, me de mais nota!")
     }
 }
